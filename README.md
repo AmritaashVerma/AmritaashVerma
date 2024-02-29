@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **nothing, I am noob and still learning.**
 
-- ⚡ Fun fact **I am somewhat of a geek.**
+- ⚡ Fun fact **I am somewhat of a geek 🤓.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
