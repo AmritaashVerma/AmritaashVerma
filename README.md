@@ -26,6 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amritaashverma&theme=dark" alt="amritaashverma" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amritaashverma&theme=juicyfresh" alt="amritaashverma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amritaashverma&theme=darkhub" alt="amritaashverma" /></a> </p>
 
 <!-- this is the link for making the github repository for future reference: https://rahuldkjain.github.io/gh-profile-readme-generator/>
