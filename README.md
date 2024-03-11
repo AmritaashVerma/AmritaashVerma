@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently learning **Javascript and Web development**
 
-- 💬 Ask me about **nothing, I am noob and still learning.**
+- 💬 Ask me about **nothing, I am a newbie.**
 
 - 📫 How to reach me **amritaash.verma@gmail.com*"
 
 - ⚡ Fun fact **I am somewhat of a geek 🤓 and I somewhat love going deep into things.**
+
+- **You can go through my repositeries for the basics of python and javascript.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
