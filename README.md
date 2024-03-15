@@ -5,9 +5,9 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritaashverma&label=Profile%20views&color=0e75b6&style=flat" alt="amritaashverma" /> </p>
 
-- 🌱 I’m currently learning **Javascript and Web development**
+- 🔭 I’m currently working on **Upskilling myself and learning new technologies**
 
-- 💬 Ask me about **nothing, I am a newbie.**
+- 🌱 I’m currently learning **Javascript and Web development**
 
 - 📫 How to reach me **amritaash.verma@gmail.com*"
 
