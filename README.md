@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amritaash.verma@gmail.com*"
 
-- ⚡ Fun fact **I am somewhat of a geek 🤓 and I somewhat love going deep into things.**
+- ⚡ Fun fact **I am somewhat of a geek 🤓 and I love going deep into things.**
 
 - **You can go through my repositeries for the basics of python and javascript.**
 
