@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Amritaash Verma</h1>
 <h3 align="center">I am a passionate learner getting his feet wet in the world of programming.</h3>
 <br>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<img align="right" alt="coding" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritaashverma&label=Profile%20views&color=0e75b6&style=flat" alt="amritaashverma" /> </p>
 
