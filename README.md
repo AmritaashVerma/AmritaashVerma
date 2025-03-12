@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amritaashverma&show_icons=true&locale=en&bg_color=000&text_color=fff&title_color=fff" alt="amritaashverma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amritaashverma&theme=dark" alt="amritaashverma" /></p>
+<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=AmritaashVerma)](https://git.io/streak-stats)</p>
 <!-- this is the link for making the github repository for future reference: https://rahuldkjain.github.io/gh-profile-readme-generator/>
